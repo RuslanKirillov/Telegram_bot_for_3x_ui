@@ -1,6 +1,8 @@
-.env                                                                                                                                       
+.env 
+main_back.py                                                                                                                                     
 venv/                                                                                                                                      
 __pycache__/                                                                                                                             
 *.pyc
 vpn_bot.db
 data/
+debug_bot.py
