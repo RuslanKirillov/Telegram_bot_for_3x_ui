@@ -6,3 +6,4 @@ __pycache__/
 vpn_bot.db
 data/
 debug_bot.py
+back_file/
